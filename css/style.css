@@ -114,7 +114,7 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.card_social:hover{
+.card_social a:hover{
     background-color: var(--cor-acento);
     color: var(--cor-branco);
     border-color: var(--cor-acento);
